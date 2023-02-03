@@ -35,7 +35,9 @@ public class Subset {
     static void subset(int cnt) {
         if (cnt == N) {
             for (int i = 0; i < N; i++) {
-                if (isSelected[i]) System.out.print(input[i] + " ");
+                if (isSelected[i]) {
+                    System.out.print(input[i] + " ");
+                }
             }
             System.out.println();
             return;

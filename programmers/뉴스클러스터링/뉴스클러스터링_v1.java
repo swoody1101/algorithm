@@ -1,44 +1,69 @@
 package programmers.뉴스클러스터링;
 
-import java.util.*;
-
 public class 뉴스클러스터링_v1 {
 
     class Solution {
-        public int solution(String str1, String str2) {
+        public int solution(int m, int n, String[] board) {
             int answer = 0;
-            List<String> list1 = strToList(str1.toLowerCase());
-            List<String> list2 = strToList(str2.toLowerCase());
-            List<String> intersection = new ArrayList<>();
-            List<String> union = new ArrayList<>();
+            int[] dx = {0, 1, 0, 1};
+            int[] dy = {0, 0, 1, 1};
+            char[][] cBoard = new char[m][n];
+            boolean trigger = true;
+            boolean[][] delete;
 
-            for (int i = 0; i < list1.size(); i++) {
-                for (int j = 0; j < list2.size(); j++) {
-                    if ((list1.get(i)).equals(list2.get(j))) {
-                        intersection.add(list1.remove(i));
-                        list2.remove(j);
-                        i--;
-                        break;
+            for (int i = 0; i < m; i++) {
+                cBoard[i] = board[i].toCharArray();
+            }
+
+            while (trigger) {
+                trigger = false;
+                delete = new boolean[m][n];
+                for (int i = 0; i < m - 1; i++) {
+                    for (int j = 0; j < n - 1; j++) {
+                        if (cBoard[i][j] == ' ' ||
+                                cBoard[i][j] != cBoard[i + dx[1]][j + dy[1]] ||
+                                cBoard[i][j] != cBoard[i + dx[2]][j + dy[2]] ||
+                                cBoard[i][j] != cBoard[i + dx[3]][j + dy[3]]) continue;
+                        trigger = true;
+                        for (int d = 0; d < 4; d++) {
+                            delete[i + dx[d]][j + dy[d]] = true;
+                        }
+                    }
+                }
+                answer += deleteBlock(cBoard, delete, m, n);
+                dropBlock(cBoard, m, n);
+            }
+
+            return answer;
+        }
+
+        int deleteBlock(char[][] cBoard, boolean[][] delete, int m, int n) {
+            int cnt = 0;
+            for (int i = 0; i < m; i++) {
+                for (int j = 0; j < n; j++) {
+                    if (delete[i][j]) {
+                        cBoard[i][j] = ' ';
+                        cnt++;
                     }
                 }
             }
-            union.addAll(list1);
-            union.addAll(list2);
-            union.addAll(intersection);
-
-            if (union.isEmpty()) return 65536;
-            return (65536 * intersection.size()) / union.size();
+            return cnt;
         }
 
-        List<String> strToList(String str) {
-            List<String> list = new ArrayList<>();
-            for (int i = 0; i < str.length() - 1; i++) {
-                String temp = str.substring(i, i + 2);
-                if (temp.charAt(0) < 'a' || temp.charAt(0) > 'z' ||
-                        temp.charAt(1) < 'a' || temp.charAt(1) > 'z') continue;
-                list.add(temp);
+        void dropBlock(char[][] cBoard, int m, int n) {
+            for (int j = 0; j < n; j++) {
+                for (int i = m - 1; i >= 0; i--) {
+                    if (cBoard[i][j] == ' ') {
+                        for (int k = i - 1; k >= 0; k--) {
+                            if (cBoard[k][j] != ' ') {
+                                cBoard[i][j] = cBoard[k][j];
+                                cBoard[k][j] = ' ';
+                                break;
+                            }
+                        }
+                    }
+                }
             }
-            return list;
         }
     }
 }

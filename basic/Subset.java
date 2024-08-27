@@ -42,6 +42,7 @@ public class Subset {
             System.out.println();
             return;
         }
+
         isSelected[cnt] = true;
         subset(cnt + 1);
         isSelected[cnt] = false;

@@ -2,7 +2,7 @@
 
 ### 자료구조
 #### 배열과 리스트
-- [ ] 001. [숫자의 합 구하기](https://www.acmicpc.net/problem/11720)
+- [x] 001. [숫자의 합 구하기](https://www.acmicpc.net/problem/11720)
 - [ ] 002. [평균 구하기](https://www.acmicpc.net/problem/1546)
 #### 구간 합
 - [ ] 003. [구간 합 구하기 1](https://www.acmicpc.net/problem/11659)

@@ -5,8 +5,8 @@
 - [x] 001. [숫자의 합 구하기](https://www.acmicpc.net/problem/11720)
 - [x] 002. [평균 구하기](https://www.acmicpc.net/problem/1546)
 #### 구간 합
-- [ ] 003. [구간 합 구하기 1](https://www.acmicpc.net/problem/11659)
-- [ ] 004. [구간 합 구하기 2](https://www.acmicpc.net/problem/11660)
+- [x] 003. [구간 합 구하기 1](https://www.acmicpc.net/problem/11659)
+- [x] 004. [구간 합 구하기 2](https://www.acmicpc.net/problem/11660)
 - [ ] 005. [나머지 합 구하기](https://www.acmicpc.net/problem/10986)
 - [ ] 006. [연속된 자연수의 합 구하기](https://www.acmicpc.net/problem/2018)
 #### 투 포인터

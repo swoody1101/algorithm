@@ -40,6 +40,6 @@ public class BOJ_1253_좋다 {
 			}
 		}
 
-		System.out.println(answer);
+		System.out.println(answer); 
 	}
 }

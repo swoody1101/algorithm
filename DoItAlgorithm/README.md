@@ -10,7 +10,7 @@
 - [x] 005. [나머지 합 구하기](https://www.acmicpc.net/problem/10986)
 - [x] 006. [연속된 자연수의 합 구하기](https://www.acmicpc.net/problem/2018)
 #### 투 포인터
-- [ ] 007. [주몽의 명령](https://www.acmicpc.net/problem/1940)
+- [x] 007. [주몽의 명령](https://www.acmicpc.net/problem/1940)
 - [ ] 008. [‘좋은 수’ 구하기](https://www.acmicpc.net/problem/1253)
 #### 스라이딩 윈도우
 - [ ] 009. [DNA 비밀번호](https://www.acmicpc.net/problem/12891)

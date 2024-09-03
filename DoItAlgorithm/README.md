@@ -14,7 +14,7 @@
 - [x] 008. [‘좋은 수’ 구하기](https://www.acmicpc.net/problem/1253)
 #### 스라이딩 윈도우
 - [x] 009. [DNA 비밀번호](https://www.acmicpc.net/problem/12891)
-- [ ] 010. [최솟값 찾기 1](https://www.acmicpc.net/problem/11003)
+- [x] 010. [최솟값 찾기 1](https://www.acmicpc.net/problem/11003)
 #### 스택과 큐
 - [ ] 011. [스택으로 오름차순 수열 만들기](https://www.acmicpc.net/problem/1874)
 - [ ] 012. [오큰수 구하기](https://www.acmicpc.net/problem/17298)

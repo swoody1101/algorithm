@@ -17,7 +17,7 @@
 - [x] 010. [최솟값 찾기 1](https://www.acmicpc.net/problem/11003)
 #### 스택과 큐
 - [x] 011. [스택으로 오름차순 수열 만들기](https://www.acmicpc.net/problem/1874)
-- [ ] 012. [오큰수 구하기](https://www.acmicpc.net/problem/17298)
+- [x] 012. [오큰수 구하기](https://www.acmicpc.net/problem/17298)
 - [ ] 013. [카드 게임](https://www.acmicpc.net/problem/2164)
 - [ ] 014. [절댓값 힙 구현하기](https://www.acmicpc.net/problem/11268)
 <br/>

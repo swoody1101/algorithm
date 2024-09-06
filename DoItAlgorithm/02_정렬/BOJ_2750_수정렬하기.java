@@ -13,8 +13,8 @@ public class BOJ_2750_수정렬하기 {
 			nums[i] = Integer.parseInt(br.readLine());
 		}
 
-		for (int i = 1; i < N; i++) {
-			for (int j = 0; j < N - 1; j++) {
+		for (int i = 0; i < N - 1; i++) {
+			for (int j = 0; j < N - 1 - i; j++) {
 				if (nums[j] > nums[j + 1]) {
 					int temp = nums[j];
 					nums[j] = nums[j + 1];

@@ -45,7 +45,7 @@
 - [ ] 024. [신기한 소수 찾기](https://www.acmicpc.net/problem/2023)
 - [ ] 025. [친구 관계 파악하기](https://www.acmicpc.net/problem/13023)
 #### 너비 우선 탐색
-- [ ] 026. [DFS와 BFS 프로그램](https://www.acmicpc.net/problem/1206)
+- [ ] 026. [DFS와 BFS 프로그램](https://www.acmicpc.net/problem/1260)
 - [ ] 027. [미로 탐색하기](https://www.acmicpc.net/problem/13023)
 - [ ] 028. [트리의 지름 구하기](https://www.acmicpc.net/problem/1167)
 #### 이진 탐색

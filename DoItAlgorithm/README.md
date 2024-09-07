@@ -25,7 +25,7 @@
 ### 정렬
 #### 버블 정렬
 - [x] 015. [수 정렬하기 1](https://www.acmicpc.net/problem/2750)
-- [ ] 016. [버블 소트 프로그램 1](https://www.acmicpc.net/problem/1377)
+- [x] 016. [버블 소트 프로그램 1](https://www.acmicpc.net/problem/1377)
 #### 선택 정렬
 - [ ] 017. [내림차순으로 자릿수 정렬하기](https://www.acmicpc.net/problem/1427)
 #### 삽입 정렬

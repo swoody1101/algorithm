@@ -27,7 +27,7 @@
 - [x] 015. [수 정렬하기 1](https://www.acmicpc.net/problem/2750)
 - [x] 016. [버블 소트 프로그램 1](https://www.acmicpc.net/problem/1377)
 #### 선택 정렬
-- [ ] 017. [내림차순으로 자릿수 정렬하기](https://www.acmicpc.net/problem/1427)
+- [x] 017. [내림차순으로 자릿수 정렬하기](https://www.acmicpc.net/problem/1427)
 #### 삽입 정렬
 - [ ] 018. [ATM 인출 시간 계산하기](https://www.acmicpc.net/problem/11399)
 #### 퀵 정렬

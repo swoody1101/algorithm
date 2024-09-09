@@ -29,7 +29,7 @@
 #### 선택 정렬
 - [x] 017. [내림차순으로 자릿수 정렬하기](https://www.acmicpc.net/problem/1427)
 #### 삽입 정렬
-- [ ] 018. [ATM 인출 시간 계산하기](https://www.acmicpc.net/problem/11399)
+- [x] 018. [ATM 인출 시간 계산하기](https://www.acmicpc.net/problem/11399)
 #### 퀵 정렬
 - [ ] 019. [K번째 수 구하기](https://www.acmicpc.net/problem/11004)
 #### 병합 정렬

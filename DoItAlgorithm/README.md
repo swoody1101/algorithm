@@ -33,7 +33,7 @@
 #### 퀵 정렬
 - [x] 019. [K번째 수 구하기](https://www.acmicpc.net/problem/11004)
 #### 병합 정렬
-- [ ] 020. [수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+- [x] 020. [수 정렬하기 2](https://www.acmicpc.net/problem/2751)
 - [ ] 021. [버블 소트 프로그램 2](https://www.acmicpc.net/problem/1517)
 #### 기수 정렬
 - [ ] 022. [수 정렬하기 3](https://www.acmicpc.net/problem/10989)

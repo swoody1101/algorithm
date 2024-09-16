@@ -31,7 +31,7 @@
 #### 삽입 정렬
 - [x] 018. [ATM 인출 시간 계산하기](https://www.acmicpc.net/problem/11399)
 #### 퀵 정렬
-- [ ] 019. [K번째 수 구하기](https://www.acmicpc.net/problem/11004)
+- [x] 019. [K번째 수 구하기](https://www.acmicpc.net/problem/11004)
 #### 병합 정렬
 - [ ] 020. [수 정렬하기 2](https://www.acmicpc.net/problem/2751)
 - [ ] 021. [버블 소트 프로그램 2](https://www.acmicpc.net/problem/1517)

@@ -36,7 +36,7 @@
 - [x] 020. [수 정렬하기 2](https://www.acmicpc.net/problem/2751)
 - [x] 021. [버블 소트 프로그램 2](https://www.acmicpc.net/problem/1517)
 #### 기수 정렬
-- [ ] 022. [수 정렬하기 3](https://www.acmicpc.net/problem/10989)
+- [x] 022. [수 정렬하기 3](https://www.acmicpc.net/problem/10989)
 <br/>
 
 ### 탐색

@@ -41,7 +41,7 @@
 
 ### 탐색
 #### 깊이 우선 탐색
-- [ ] 023. [연결 요소의 개수 구하기](https://www.acmicpc.net/problem/11724)
+- [x] 023. [연결 요소의 개수 구하기](https://www.acmicpc.net/problem/11724)
 - [ ] 024. [신기한 소수 찾기](https://www.acmicpc.net/problem/2023)
 - [ ] 025. [친구 관계 파악하기](https://www.acmicpc.net/problem/13023)
 #### 너비 우선 탐색

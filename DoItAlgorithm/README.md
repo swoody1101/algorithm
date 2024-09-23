@@ -47,7 +47,7 @@
 #### 너비 우선 탐색
 - [x] 026. [DFS와 BFS 프로그램](https://www.acmicpc.net/problem/1260)
 - [x] 027. [미로 탐색하기](https://www.acmicpc.net/problem/2178)
-- [ ] 028. [트리의 지름 구하기](https://www.acmicpc.net/problem/1167)
+- [x] 028. [트리의 지름 구하기](https://www.acmicpc.net/problem/1167)
 #### 이진 탐색
 - [ ] 029. [원하는 정수 찾기](https://www.acmicpc.net/problem/1920)
 - [ ] 030. [블루레이 만들기](https://www.acmicpc.net/problem/2343)

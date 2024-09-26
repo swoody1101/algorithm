@@ -56,7 +56,7 @@
 
 ### 그리디
 #### 그리디 알고리즘
-- [ ] 032. [동전 개수의 최솟값 구하기](https://www.acmicpc.net/problem/11047)
+- [x] 032. [동전 개수의 최솟값 구하기](https://www.acmicpc.net/problem/11047)
 - [ ] 033. [카드 정렬하기](https://www.acmicpc.net/problem/1715)
 - [ ] 034. [수를 묶어서 최댓값 만들기](https://www.acmicpc.net/problem/1744)
 - [ ] 035. [회의실 배정하기](https://www.acmicpc.net/problem/1931)

@@ -51,7 +51,7 @@
 #### 이진 탐색
 - [x] 029. [원하는 정수 찾기](https://www.acmicpc.net/problem/1920)
 - [x] 030. [블루레이 만들기](https://www.acmicpc.net/problem/2343)
-- [ ] 031. [배열에서 K번째 수 찾기](https://www.acmicpc.net/problem/1300)
+- [x] 031. [배열에서 K번째 수 찾기](https://www.acmicpc.net/problem/1300)
 <br/>
 
 ### 그리디

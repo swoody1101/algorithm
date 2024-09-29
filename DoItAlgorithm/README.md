@@ -59,7 +59,7 @@
 - [x] 032. [동전 개수의 최솟값 구하기](https://www.acmicpc.net/problem/11047)
 - [x] 033. [카드 정렬하기](https://www.acmicpc.net/problem/1715)
 - [x] 034. [수를 묶어서 최댓값 만들기](https://www.acmicpc.net/problem/1744)
-- [ ] 035. [회의실 배정하기](https://www.acmicpc.net/problem/1931)
+- [x] 035. [회의실 배정하기](https://www.acmicpc.net/problem/1931)
 - [ ] 036. [최솟값을 만드는 괄호 배치 찾기](https://www.acmicpc.net/problem/1541)
 <br/>
 

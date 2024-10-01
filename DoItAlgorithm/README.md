@@ -60,7 +60,7 @@
 - [x] 033. [카드 정렬하기](https://www.acmicpc.net/problem/1715)
 - [x] 034. [수를 묶어서 최댓값 만들기](https://www.acmicpc.net/problem/1744)
 - [x] 035. [회의실 배정하기](https://www.acmicpc.net/problem/1931)
-- [ ] 036. [최솟값을 만드는 괄호 배치 찾기](https://www.acmicpc.net/problem/1541)
+- [x] 036. [최솟값을 만드는 괄호 배치 찾기](https://www.acmicpc.net/problem/1541)
 <br/>
 
 ### 정수론

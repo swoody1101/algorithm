@@ -70,7 +70,7 @@
 - [x] 039. [소수 & 팰린드롬 수 중에서 최솟값 찾기](https://www.acmicpc.net/problem/1747)
 - [x] 040. [제곱이 아닌 수 찾기](https://www.acmicpc.net/problem/1016)
 #### 오일러 피
-- [ ] 041. [오일러 피 함수 구현하기](https://www.acmicpc.net/problem/11689)
+- [x] 041. [오일러 피 함수 구현하기](https://www.acmicpc.net/problem/11689)
 #### 유클리드 호제법
 - [ ] 042. [최소 공배수 구하기](https://www.acmicpc.net/problem/1934)
 - [ ] 043. [최대 공약수 구하기](https://www.acmicpc.net/problem/1850)

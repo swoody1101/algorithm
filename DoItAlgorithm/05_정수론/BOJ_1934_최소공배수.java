@@ -17,15 +17,7 @@ public class BOJ_1934_최소공배수 {
 			int A = Integer.parseInt(st.nextToken());
 			int B = Integer.parseInt(st.nextToken());
 
-			int gcd = 1;
-			if (A == B) {
-				gcd = A;
-			} else if (A > B) {
-				gcd = getGCD(A, B);
-			} else {
-				gcd = getGCD(B, A);
-			}
-			sb.append(A * B / gcd).append("\n");
+			sb.append(A * B / getGCD(A, B)).append("\n");
 		}
 
 		System.out.println(sb.toString());

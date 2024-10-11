@@ -74,7 +74,7 @@
 #### 유클리드 호제법
 - [x] 042. [최소 공배수 구하기](https://www.acmicpc.net/problem/1934)
 - [x] 043. [최대 공약수 구하기](https://www.acmicpc.net/problem/1850)
-- [ ] 044. [칵테일 만들기](https://www.acmicpc.net/problem/1033)
+- [x] 044. [칵테일 만들기](https://www.acmicpc.net/problem/1033)
 #### 확장 유클리드 호제법
 - [ ] 045. [Ax + By = C](https://www.acmicpc.net/problem/21568)
 <br/>

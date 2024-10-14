@@ -82,7 +82,7 @@
 ### 그래프
 #### 그래프의 표현
 - [x] 046. [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
-- [ ] 047. [효율적으로 해킹하기](https://www.acmicpc.net/problem/1325)
+- [x] 047. [효율적으로 해킹하기](https://www.acmicpc.net/problem/1325)
 - [ ] 048. [이분 그래프 판별하기](https://www.acmicpc.net/problem/1707)
 - [ ] 049. [물의 양 구하기](https://www.acmicpc.net/problem/2251)
 #### 유니온 파인드

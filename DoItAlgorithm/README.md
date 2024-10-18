@@ -87,7 +87,7 @@
 - [x] 049. [물의 양 구하기](https://www.acmicpc.net/problem/2251)
 #### 유니온 파인드
 - [x] 050. [집합 표현하기](https://www.acmicpc.net/problem/1717)
-- [ ] 051. [여행 계획 짜기](https://www.acmicpc.net/problem/1976)
+- [x] 051. [여행 계획 짜기](https://www.acmicpc.net/problem/1976)
 - [ ] 052. [거짓말쟁이가 되긴 싫어](https://www.acmicpc.net/problem/1043)
 #### 위상 정렬
 - [ ] 053. [줄 세우기](https://www.acmicpc.net/problem/2252)

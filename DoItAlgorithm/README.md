@@ -91,7 +91,7 @@
 - [x] 052. [거짓말쟁이가 되긴 싫어](https://www.acmicpc.net/problem/1043)
 #### 위상 정렬
 - [x] 053. [줄 세우기](https://www.acmicpc.net/problem/2252)
-- [ ] 054. [게임 개발하기](https://www.acmicpc.net/problem/1516)
+- [x] 054. [게임 개발하기](https://www.acmicpc.net/problem/1516)
 - [ ] 055. [임계 경로 구하기](https://www.acmicpc.net/problem/1948)
 #### 다익스트라
 - [ ] 056. [최단 경로 구하기](https://www.acmicpc.net/problem/1753)

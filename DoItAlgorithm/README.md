@@ -94,7 +94,7 @@
 - [x] 054. [게임 개발하기](https://www.acmicpc.net/problem/1516)
 - [x] 055. [임계 경로 구하기](https://www.acmicpc.net/problem/1948)
 #### 다익스트라
-- [ ] 056. [최단 경로 구하기](https://www.acmicpc.net/problem/1753)
+- [x] 056. [최단 경로 구하기](https://www.acmicpc.net/problem/1753)
 - [ ] 057. [최소 비용 구하기](https://www.acmicpc.net/problem/1916)
 - [ ] 058. [K번째 최단 경로 찾기](https://www.acmicpc.net/problem/1854)
 #### 벨만-포드

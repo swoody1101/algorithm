@@ -95,7 +95,7 @@
 - [x] 055. [임계 경로 구하기](https://www.acmicpc.net/problem/1948)
 #### 다익스트라
 - [x] 056. [최단 경로 구하기](https://www.acmicpc.net/problem/1753)
-- [ ] 057. [최소 비용 구하기](https://www.acmicpc.net/problem/1916)
+- [x] 057. [최소 비용 구하기](https://www.acmicpc.net/problem/1916)
 - [ ] 058. [K번째 최단 경로 찾기](https://www.acmicpc.net/problem/1854)
 #### 벨만-포드
 - [ ] 059. [타임머신으로 빨리 가기](https://www.acmicpc.net/problem/11657)

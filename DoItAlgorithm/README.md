@@ -96,7 +96,7 @@
 #### 다익스트라
 - [x] 056. [최단 경로 구하기](https://www.acmicpc.net/problem/1753)
 - [x] 057. [최소 비용 구하기](https://www.acmicpc.net/problem/1916)
-- [ ] 058. [K번째 최단 경로 찾기](https://www.acmicpc.net/problem/1854)
+- [x] 058. [K번째 최단 경로 찾기](https://www.acmicpc.net/problem/1854)
 #### 벨만-포드
 - [ ] 059. [타임머신으로 빨리 가기](https://www.acmicpc.net/problem/11657)
 - [ ] 060. [세일즈맨의 고민](https://www.acmicpc.net/problem/1219)

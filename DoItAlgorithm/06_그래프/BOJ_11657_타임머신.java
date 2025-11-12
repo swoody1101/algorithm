@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ_11657_타임머신 {
     private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     private static StringBuilder sb = new StringBuilder();
     static int N, M;
